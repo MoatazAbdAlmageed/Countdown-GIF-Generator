@@ -36,6 +36,12 @@ This Node.js script generates a GIF image that displays a countdown to a specifi
    node countdown.js
    ```
 
+   or
+
+   ```shell
+   yarn nodemon countdown.js
+   ```
+
 1. The script will generate a countdown GIF image and save it to the specified output file.
 
 ### Customization

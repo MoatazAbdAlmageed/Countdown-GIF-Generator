@@ -19,7 +19,7 @@ function generateCountdownGif(targetDate, outputFile) {
   encoder.setQuality(10); // Lower quality to reduce file size
 
   // Set the canvas background color to transparent
-  ctx.fillStyle = "";
+  ctx.fillStyle = "rgba(0, 0, 0, 0)";
   ctx.fillRect(0, 0, canvasWidth, canvasHeight);
 
   const updateCountdown = () => {
