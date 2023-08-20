@@ -62,5 +62,3 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ### Authors
 
 - [MOATAZ MPOHAMMADY](https://moatazabdalmageed.github.io/)
-
-Feel free to update the instructions and information in the README file to match your specific use case and preferences.
